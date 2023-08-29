@@ -16,7 +16,7 @@ def main():
     print(f"Overtime Charge: ${overtime_wage:.2f}")
     print(f"Total wage : ${total_wage:.2f}")
 
-   ##################################################
+   ###################################################
    # Do not delete the return statement
    ##################################################
     return regular_wage, overtime_wage, total_wage
